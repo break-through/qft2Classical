@@ -1,0 +1,23 @@
+You previously made software based on the below:
+
+--------------------------------------------------------
+
+In reality, physics indicates that most of what we see is based on quantum fields.
+Every elementary particle has a quantum field, and their interactiosn
+when integrated create the quantum mechanical psi function and then the integration of that via probability expectations creates
+the nearly semi-classical gravity version of GR that predicts reality.
+
+
+I want to build a visual software that will allow someone to
+explore this and create visual representations that show how
+the EM quantum field can build up to a radio wave that is used by
+humans on the classical large scale.
+
+Can you create a well made python based visualizer based on the
+instructions above with highly tunable parameters for users?
+
+Thank you!
+
+--------------------------------------------------------
+
+Can you pelase create a design document and a bunch of summaries of the work you did so engieners can know how to start adding to the codebase? And add as much dcumentationa s you think necessary for your components, maybe in it's own directory.
